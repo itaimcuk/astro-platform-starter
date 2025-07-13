@@ -6,7 +6,7 @@ A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](http
 
 ## Astro Commands
 
-All commands are run from the root of the project, from a terminal:
+All commands bla bla are run from the root of the project, from a terminal:
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
